@@ -16,7 +16,7 @@ st.set_page_config(
 # -------------------------------------------------
 
 # REPLACE THIS WITH YOUR ACTUAL CSV FILE NAME
-df = pd.read_csv(r"Palo Alto Networks.csv")
+df = pd.read_csv(r"processed_Palo_Alto_Networks_data.csv")
 
 # -------------------------------------------------
 # TITLE
